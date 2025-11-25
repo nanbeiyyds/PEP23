@@ -1,0 +1,6 @@
+Hola
+Buenos días
+Hasta luego
+Nueva Hola
+Nueva buenos días
+Nueva hasta luego
